@@ -8,6 +8,10 @@
 - Introduction to Kubernetes with Google Cloud: Deploy your Deep Learning model effortlessly | [Reference](https://theaisummer.com/kubernetes/) | [Architecture w/o k8s](https://theaisummer.com/static/6cd65865454a470166023923fbcb3136/cac9f/modern-app-design.png) | [Architecture with k8s](https://theaisummer.com/static/a302684341347a8e633b8bbe3329fba8/63b67/app-with-kubernetes-design.png)
 ***
 
+## Comparison
+- [How a big data pipeline would look like in AWS, GCP and Azure](https://www.ml4devs.com/articles/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud/)
+***
+
 ## Decision diagrams
 - [SQL vs. NoSQL](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)
 ***
