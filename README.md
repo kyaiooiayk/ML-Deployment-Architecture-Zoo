@@ -9,5 +9,5 @@
 ***
 
 ## Decision diagrams
-- [SQL vs. NOSQL](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)
+- [SQL vs. NoSQL](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)
 ***
