@@ -5,6 +5,7 @@
 - Flask with Nginx and uWSG | [Reference](https://theaisummer.com/uwsgi-nginx/) | [Pic w/o Nginx](https://theaisummer.com/static/3bc002a80c39d1e6c423a1da33585f97/c0388/uwsgi.png) | [Pic with Nginx](https://theaisummer.com/static/262c3377a828afecc2fa0f099886f428/91e7e/nginx.png)
 - Flask with Nginx and uWSG in Docker containers | [Reference](https://theaisummer.com/docker/) | [Pic](https://theaisummer.com/static/3a5039d102228b995182c4f97e30e179/eb645/docker-flask-tensorflow-uwsgi-nginx.png)
 - Introduction to Kubernetes with Google Cloud: Deploy your Deep Learning model effortlessly | [Reference](https://theaisummer.com/kubernetes/) | [Architecture w/o k8s](https://theaisummer.com/static/6cd65865454a470166023923fbcb3136/cac9f/modern-app-design.png) | [Architecture with k8s](https://theaisummer.com/static/a302684341347a8e633b8bbe3329fba8/63b67/app-with-kubernetes-design.png)
+- Stock Market Kafka Real Time Data Engineering Project | [Reference](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project) | [Pic](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/Architecture.jpg)
 ***
 
 ## Step-by-step guide
