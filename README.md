@@ -6,6 +6,7 @@
 - Flask with Nginx and uWSG in Docker containers | [Reference](https://theaisummer.com/docker/) | [Pic](https://theaisummer.com/static/3a5039d102228b995182c4f97e30e179/eb645/docker-flask-tensorflow-uwsgi-nginx.png)
 - Introduction to Kubernetes with Google Cloud: Deploy your Deep Learning model effortlessly | [Reference](https://theaisummer.com/kubernetes/) | [Architecture w/o k8s](https://theaisummer.com/static/6cd65865454a470166023923fbcb3136/cac9f/modern-app-design.png) | [Architecture with k8s](https://theaisummer.com/static/a302684341347a8e633b8bbe3329fba8/63b67/app-with-kubernetes-design.png)
 - Stock Market Kafka Real Time Data Engineering Project | [Reference](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project) | [Pic](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/Architecture.jpg)
+- Smart City e2e Realtime Data Engineering Project with Kafka, Spark, Athena and Redshift | [Reference](https://www.youtube.com/watch?v=Vv_fvwF41_0&t=3s)
 ***
 
 ## Step-by-step guide
