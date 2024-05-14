@@ -14,6 +14,7 @@
 
 ## Comparison
 - [How a big data pipeline would look like in AWS, GCP and Azure](https://www.ml4devs.com/articles/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud/)
+- [AWS Redshift vs. AWS Athena](https://www.chaossearch.io/blog/when-to-deploy-aws-redshift-or-athena-use-cases)
 ***
 
 ## Decision diagrams
