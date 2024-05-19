@@ -21,3 +21,7 @@
 ## Decision diagrams
 - [SQL vs. NoSQL](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)
 ***
+
+## Utilities
+- A free, open-source API for generating random user data. [Link](https://randomuser.me/)
+***
