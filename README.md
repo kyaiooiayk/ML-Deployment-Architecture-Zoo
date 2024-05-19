@@ -7,6 +7,7 @@
 - Introduction to Kubernetes with Google Cloud: Deploy your Deep Learning model effortlessly | [Reference](https://theaisummer.com/kubernetes/) | [Architecture w/o k8s](https://theaisummer.com/static/6cd65865454a470166023923fbcb3136/cac9f/modern-app-design.png) | [Architecture with k8s](https://theaisummer.com/static/a302684341347a8e633b8bbe3329fba8/63b67/app-with-kubernetes-design.png)
 - Stock Market Kafka Real Time Data Engineering Project | [Reference](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project) | [Pic](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/Architecture.jpg)
 - Smart City e2e Realtime Data Engineering Project with Kafka, Spark, Athena and Redshift | [Reference](https://www.youtube.com/watch?v=Vv_fvwF41_0&t=3s)
+- Realtime Data Streaming using Airflow, Spark, Kafka and Cassandra |  [Reference](https://github.com/airscholar/e2e-data-engineering) | [Pic](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
 ***
 
 ## Step-by-step guide
