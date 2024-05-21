@@ -18,6 +18,7 @@
 ## Comparison
 - [How a big data pipeline would look like in AWS, GCP and Azure](https://www.ml4devs.com/articles/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud/)
 - [AWS Redshift vs. AWS Athena](https://www.chaossearch.io/blog/when-to-deploy-aws-redshift-or-athena-use-cases)
+- [API zoo](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4e965c2-b545-4f79-a489-e0e72d473c06_1109x1600.png?utm_source=substack&utm_medium=email)
 ***
 
 ## Decision diagrams
