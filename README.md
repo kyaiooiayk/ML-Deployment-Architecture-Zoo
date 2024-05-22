@@ -9,6 +9,7 @@
 - Smart City e2e Realtime Data Engineering Project with Kafka, Spark, Athena and Redshift | [Reference](https://www.youtube.com/watch?v=Vv_fvwF41_0&t=3s)
 - Realtime Data Streaming using Airflow, Spark, Kafka and Cassandra |  [Reference](https://github.com/airscholar/e2e-data-engineering) | [Pic](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
 - AI chatbot with Streamlit, OpenAI, LangChain, PineCone, FastAPI | [Reference](https://www.linkedin.com/posts/danleedata_curious-about-how-to-build-an-%3F%3F-%3F%3F%3F%3F%3F%3F%3F-activity-7194018029007945728-gpQ8?utm_source=combined_share_message&utm_medium=member_android) | [Pic](https://media.licdn.com/dms/image/D4D22AQGdML84CgZ1SQ/feedshare-shrink_2048_1536/0/1715187541272?e=2147483647&v=beta&t=UAP0xTeae86QbgWAEbK_3V3wjen3660-WPatLCceP7s)
+- How to fine tune a LLM model and deplopy it (Weights and Biases, Hydra, DVC, ONNX, Docker, FastAPI, GitHub Actions, AWS ECR, AWS Lambda, Kibana) | [Reference](https://github.com/graviraja/MLOps-Basics?tab=readme-ov-file) | [Pic](https://github.com/graviraja/MLOps-Basics/blob/main/images/summary.png)
 ***
 
 ## Step-by-step guide
