@@ -17,7 +17,8 @@
 ***
 
 ## Options
-- [AWS clous services cheat sheet](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F915d1659-0779-460e-b71f-a7dd9d812556_1415x1536.gif)
+- [AWS cloud services cheat sheet](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F915d1659-0779-460e-b71f-a7dd9d812556_1415x1536.gif)
+- [Azure cloud services cheat sheet](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc905b80e-685f-4145-a12c-02d704f70efd_1414x1536.gif)
 ***
 
 ## Comparison
