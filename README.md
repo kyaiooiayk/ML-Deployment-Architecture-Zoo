@@ -16,7 +16,7 @@
 - How to scale your DL application in the cloud using GCP xx steps | [Reference]() | [Step #1](https://theaisummer.com/static/9f4ba7de6f896cda85ca80d09f1048cd/eb645/one-instance.png) | [Step #2](https://theaisummer.com/static/eadc14719c0a025d2709d52f4dac7dbc/eb645/ci-cd.png) | [Step #3](https://theaisummer.com/static/f447929a1f3624263861ee936110dc9c/eb645/vertical-scaling.png) | [Step #4](https://theaisummer.com/static/0d51a1402766e4a5095fc8c85a87937d/eb645/horizontal-scaling.png) | [Step #5](https://theaisummer.com/static/74b861df449a29ef4416e01906b74d6a/eb645/scaling-out.png) | [Step #6](https://theaisummer.com/static/1c8d6df851c30ccab364a7ea28f2e822/eb645/cache.png) | [Step #7](https://theaisummer.com/static/08f941a0f6861a898c6e5e03e22d0b75/eb645/error-reporting.png) | [Step #8](https://theaisummer.com/static/3c0b6cb4ece0dda52d4c882c2bf94264/eb645/retrain.png) | [Step #9](https://theaisummer.com/static/ae52892e7790aa9d181e9e9399239d7f/eb645/offline-inference.png) 
 ***
 
-## Options
+## Cloud provider offering
 - [AWS cloud services cheat sheet](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F915d1659-0779-460e-b71f-a7dd9d812556_1415x1536.gif)
 - [Azure cloud services cheat sheet](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc905b80e-685f-4145-a12c-02d704f70efd_1414x1536.gif)
 ***
@@ -35,6 +35,7 @@
 
 ## Utilities
 - A free, open-source API for generating random user data. [Link](https://randomuser.me/)
+- [Best way to test system functionality](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd18e5226-8335-4455-909d-5a6ef98747a6_1280x1664.gif)
 ***
 
 ## Databases
