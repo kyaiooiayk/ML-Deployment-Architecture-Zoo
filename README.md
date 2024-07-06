@@ -42,5 +42,5 @@
 ***
 
 ## How to scale
-- [7 must-know strategies to scale your database](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f560185-6b26-4359-ae8a-123b44d8884a_1345x1536.gif)
+- [8 must-know strategies to scale your system](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2497aa7-95ab-45b0-a8f7-0af03b663342_1280x1683.gif)
 ***
