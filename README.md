@@ -31,6 +31,7 @@
 ## Decision diagrams
 - [SQL vs. NoSQL](https://www.ml4devs.com/articles/datastore-choices-sql-vs-nosql-database/)
 - [Amazon Sagemaker vs. Anyscale Endpoints vs. FastAPI vs. OpenLLM vs. NVIDIA Triton Inference Server](https://outerbounds.com/blog/the-many-ways-to-deploy-a-model/?utm_source=substack&utm_medium=email)
+- [Semantic versioning](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefaeb917-d62e-4f04-b3bc-0644d50fa948_800x988.gif)
 ***
 
 ## Utilities
