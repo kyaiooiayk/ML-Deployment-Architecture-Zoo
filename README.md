@@ -42,6 +42,7 @@
 ## Databases
 - [Database shrading](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F571827ac-b3da-44a3-886a-8ca9770bb443_1337x1600.png?utm_source=substack&utm_medium=email)
 - [Database scaling strategies](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f560185-6b26-4359-ae8a-123b44d8884a_1345x1536.gif)
+- [CRUD and RDB](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7e87813-2921-4379-a1c9-c101092fda5d_1241x1600.png?utm_source=substack&utm_medium=email)
 ***
 
 ## How to scale
