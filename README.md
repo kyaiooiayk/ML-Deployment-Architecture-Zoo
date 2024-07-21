@@ -1,5 +1,9 @@
 # ML-Deployment-Architecture-Zoo
 
+## Project management
+- [Iterative, Agile, Waterfall, Spiral Model, RAD](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F853579e5-3dc8-4746-9da3-4f25d7be44a2_1514x1536.gif)
+***
+
 ## System architectures
 - U-Net to perform image segmentation | [Reference](https://theaisummer.com/deep-learning-production/) | [Pic](https://theaisummer.com/static/fd0f5f2bafd32d6e18d40a1d5312f758/d8f62/full-system-architecture.png)
 - Flask with Nginx and uWSG | [Reference](https://theaisummer.com/uwsgi-nginx/) | [Pic w/o Nginx](https://theaisummer.com/static/3bc002a80c39d1e6c423a1da33585f97/c0388/uwsgi.png) | [Pic with Nginx](https://theaisummer.com/static/262c3377a828afecc2fa0f099886f428/91e7e/nginx.png)
