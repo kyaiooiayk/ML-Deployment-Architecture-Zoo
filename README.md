@@ -30,6 +30,7 @@
 - [AWS Redshift vs. AWS Athena](https://www.chaossearch.io/blog/when-to-deploy-aws-redshift-or-athena-use-cases)
 - [API zoo](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4e965c2-b545-4f79-a489-e0e72d473c06_1109x1600.png?utm_source=substack&utm_medium=email)
 - [Statefull vs. stateless applications](https://www.redhat.com/en/topics/cloud-native-apps/stateful-vs-stateless)
+- [Top 9 Architectural Patterns for Data and Communication Flow - Peer-to-Peer | API Gateway | Pub-Sub | Request-Response |Event Sourcing | ETL |Batching | Streaming | Orchestration](https://pavelterenin.com/wp-content/uploads/2024/04/unnamed.jpg)
 ***
 
 ## Decision diagrams
