@@ -54,3 +54,7 @@
 ## How to scale
 - [8 must-know strategies to scale your system](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2497aa7-95ab-45b0-a8f7-0af03b663342_1280x1683.gif)
 ***
+
+## Stack
+- Kafka | [101 cheatsheet](https://x.com/alexxubyte/status/1826273948985864388/photo/1)
+***
