@@ -4,7 +4,11 @@
 - [Iterative, Agile, Waterfall, Spiral Model, RAD](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F853579e5-3dc8-4746-9da3-4f25d7be44a2_1514x1536.gif)
 ***
 
-## System architectures
+## System architecture
+- [9 most common software architectures](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86fdda13-d57b-4d9c-b868-ac35d3c52569_1600x1582.png?utm_source=substack&utm_medium=email)
+***
+
+## Example of system architectures
 - U-Net to perform image segmentation | [Reference](https://theaisummer.com/deep-learning-production/) | [Pic](https://theaisummer.com/static/fd0f5f2bafd32d6e18d40a1d5312f758/d8f62/full-system-architecture.png)
 - Flask with Nginx and uWSG | [Reference](https://theaisummer.com/uwsgi-nginx/) | [Pic w/o Nginx](https://theaisummer.com/static/3bc002a80c39d1e6c423a1da33585f97/c0388/uwsgi.png) | [Pic with Nginx](https://theaisummer.com/static/262c3377a828afecc2fa0f099886f428/91e7e/nginx.png)
 - Flask with Nginx and uWSG in Docker containers | [Reference](https://theaisummer.com/docker/) | [Pic](https://theaisummer.com/static/3a5039d102228b995182c4f97e30e179/eb645/docker-flask-tensorflow-uwsgi-nginx.png)
