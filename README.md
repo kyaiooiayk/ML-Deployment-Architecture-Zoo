@@ -6,6 +6,7 @@
 
 ## System architecture
 - [9 most common software architectures](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86fdda13-d57b-4d9c-b868-ac35d3c52569_1600x1582.png?utm_source=substack&utm_medium=email)
+- [System design topic map](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff22fad89-0da7-4390-bde8-178e56221449_1280x1502.gif?utm_source=substack&utm_medium=email)
 ***
 
 ## Example of system architectures
